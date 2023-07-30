@@ -1,0 +1,6 @@
+to know current directory
+--> pwd
+
+to change name 
+--> rename
+
